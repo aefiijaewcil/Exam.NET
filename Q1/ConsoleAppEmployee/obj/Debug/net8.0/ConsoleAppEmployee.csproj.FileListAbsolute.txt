@@ -1,0 +1,14 @@
+C:\Users\karti\Desktop\.NET\Day10\ConsoleAppEmployee\bin\Debug\net8.0\ConsoleAppEmployee.exe
+C:\Users\karti\Desktop\.NET\Day10\ConsoleAppEmployee\bin\Debug\net8.0\ConsoleAppEmployee.deps.json
+C:\Users\karti\Desktop\.NET\Day10\ConsoleAppEmployee\bin\Debug\net8.0\ConsoleAppEmployee.runtimeconfig.json
+C:\Users\karti\Desktop\.NET\Day10\ConsoleAppEmployee\bin\Debug\net8.0\ConsoleAppEmployee.dll
+C:\Users\karti\Desktop\.NET\Day10\ConsoleAppEmployee\bin\Debug\net8.0\ConsoleAppEmployee.pdb
+C:\Users\karti\Desktop\.NET\Day10\ConsoleAppEmployee\obj\Debug\net8.0\ConsoleAppEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karti\Desktop\.NET\Day10\ConsoleAppEmployee\obj\Debug\net8.0\ConsoleAppEmployee.AssemblyInfoInputs.cache
+C:\Users\karti\Desktop\.NET\Day10\ConsoleAppEmployee\obj\Debug\net8.0\ConsoleAppEmployee.AssemblyInfo.cs
+C:\Users\karti\Desktop\.NET\Day10\ConsoleAppEmployee\obj\Debug\net8.0\ConsoleAppEmployee.csproj.CoreCompileInputs.cache
+C:\Users\karti\Desktop\.NET\Day10\ConsoleAppEmployee\obj\Debug\net8.0\ConsoleAppEmployee.dll
+C:\Users\karti\Desktop\.NET\Day10\ConsoleAppEmployee\obj\Debug\net8.0\refint\ConsoleAppEmployee.dll
+C:\Users\karti\Desktop\.NET\Day10\ConsoleAppEmployee\obj\Debug\net8.0\ConsoleAppEmployee.pdb
+C:\Users\karti\Desktop\.NET\Day10\ConsoleAppEmployee\obj\Debug\net8.0\ConsoleAppEmployee.genruntimeconfig.cache
+C:\Users\karti\Desktop\.NET\Day10\ConsoleAppEmployee\obj\Debug\net8.0\ref\ConsoleAppEmployee.dll
